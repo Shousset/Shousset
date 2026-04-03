@@ -143,17 +143,16 @@
 🏛️ Trayectoria Profesional
 Actualmente me desempeño como **Productor Multimedia en [Socya](https://socya.org.co/)**, donde lidero la creación de contenido visual y el desarrollo de interfaces que conectan la tecnología con las necesidades humanas, manteniendo siempre un estándar de diseño de vanguardia.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 👨🏼‍🎓 Especiacion
 Mi trabajo se define por la precisión técnica y la estética cinematográfica. Me especializo en:
 - 🖋️ **Diseño UI/UX**: Interfaces limpias, intuitivas y con una navegación fluida.
 - 🎬 **Producción Multimedia**: Creación de lenguajes visuales coherentes y dinámicos.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-### 🚀 Stack Tecnológico
+🚀 Stack Tecnológico
 
 <table align="center">
   <tr>
@@ -180,7 +179,7 @@ Mi trabajo se define por la precisión técnica y la estética cinematográfica.
   </tr>
 </table>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 🌟 Proyectos en Desarrollo
 
