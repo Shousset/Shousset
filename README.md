@@ -156,7 +156,7 @@ Mi trabajo se define por la precisión técnica y la estética cinematográfica.
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture>>
       <strong>Programming Languages</strong><br />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
