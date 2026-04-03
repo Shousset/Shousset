@@ -178,6 +178,30 @@ Mi trabajo se define por la precisión técnica y la estética cinematográfica.
     </td>
   </tr>
 </table>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>Interfaces & Web</strong><br />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Creative Suite</strong><br />
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
+      <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white" />
+      <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" />
+      <img src="https://img.shields.io/badge/Premiere-PR?style=flat-square&logo=adobe-premiere-pro&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Interacción</strong><br />
+      <img src="https://img.shields.io/badge/Framer_Motion-white?style=flat-square&logo=framer&logoColor=blue" />
+      <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
