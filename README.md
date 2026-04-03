@@ -1,9 +1,5 @@
 <h1 align="center"><b>Hi , I'm Shousset </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-
 
 <br>
 
@@ -304,9 +300,7 @@
 
 Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
-# <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Alex%20Andrade&fontSize=80&subText=Multimedia%20Producer%20|%20UI/UX%20Specialist&subFontSize=25" width="100%" />
-</div>
+/*
 
 <br />
 
@@ -392,3 +386,4 @@ Mi trabajo se define por la precisión técnica y la estética cinematográfica.
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
 </p>
+*/
