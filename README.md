@@ -138,55 +138,14 @@
 
 
 
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-
-
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
-
-
-<br />
-
-<div align="center">
-  <h3>✨ Transformando conceptos en experiencias visuales de alto impacto.</h3>
-  <p>Productor Multimedia enfocado en el diseño de interfaces gráficas sofisticadas y experiencias de usuario (UI/UX) premium.</p>
-</div>
-
----
-
-### 🏛️ Trayectoria Profesional
+🏛️ Trayectoria Profesional
 Actualmente me desempeño como **Productor Multimedia en [Socya](https://socya.org.co/)**, donde lidero la creación de contenido visual y el desarrollo de interfaces que conectan la tecnología con las necesidades humanas, manteniendo siempre un estándar de diseño de vanguardia.
 
 ---
 
-### 🎨 Especialidades & Enfoque Creativo
+👨🏼‍🎓 Especiacion
 Mi trabajo se define por la precisión técnica y la estética cinematográfica. Me especializo en:
 - 🖋️ **Diseño UI/UX**: Interfaces limpias, intuitivas y con una navegación fluida.
 - 🎬 **Producción Multimedia**: Creación de lenguajes visuales coherentes y dinámicos.
@@ -221,42 +180,14 @@ Mi trabajo se define por la precisión técnica y la estética cinematográfica.
   </tr>
 </table>
 
----
 
-### 📊 Perfil de Ingeniería
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexandrade-s-o&show_icons=true&theme=nord&title_color=007ACC&text_color=333&icon_color=007ACC&border_color=eee" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrade-s-o&layout=compact&theme=nord&title_color=007ACC&text_color=333&border_color=eee" height="170" />
-</p>
 
----
+🌟 Proyectos en Desarrollo
 
-### 🌟 Proyectos en Desarrollo
-*   **[CROMIA-](https://github.com/Alexandrade-s-o/CROMIA-)**: Un santuario digital que explora el diseño de interfaces con estética premium.
-*   **[Maleza Tour](https://github.com/Alexandrade-s-o/maleza)**: Fusión de música y diseño interactivo.
-*   **[ConstructPrice](https://github.com/Alexandrade-s-o/constructprice)**: Ingeniería aplicada al análisis de datos y costos.
 
----
 
-### 📫 Hablemos de diseño
-<div align="center">
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tuemail@ejemplo.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
 
-<br />
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
-</p>
-*/
 <br> 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
